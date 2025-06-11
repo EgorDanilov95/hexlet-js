@@ -1,3 +1,6 @@
 import _ from 'lodash';
-console.log('Hello, Hexlet!');
-console.log(_.last(['one', 'two']));
+import heyLast from '/home/Egor/hexlet-js/hexlet-js/crs/index.js'
+
+console.log(heyLast());
+
+
